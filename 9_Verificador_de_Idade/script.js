@@ -30,7 +30,7 @@ function verificar() {
                 img.setAttribute('src', 'img/bebe-mulher.png')
             } else if (idade < 12){
                 img.setAttribute('src', 'img/crianca-mulher.png')
-            }else if (idade < 49){
+            } else if (idade < 49){
                 img.setAttribute('src', 'img/jovem-mulher.png')
             } else {
                 img.setAttribute('src', 'img/mulher-idosa.png')
